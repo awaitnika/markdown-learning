@@ -7,5 +7,6 @@ Initialized empty git repository in /users/skills/projects/recipe repository/.gi
 ``` javascript
 var myvar = "hello world"
 ```
-
-
+- [ ] turn on github pages
+- [ ] outline my portfolio
+- [ ] introduce myself to the world
